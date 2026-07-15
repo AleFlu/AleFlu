@@ -1,16 +1,29 @@
-## Hi there 👋
+### Ciao, sono Alessandro
 
-<!--
-**AleFlu/AleFlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MSc student in Computer Science (Applied AI)** @ Università di Cagliari  
+🔬 Interessi: **Machine Learning · NLP · Data Engineering**  
+🏆 2° posto in 2 track su 3 al **CEI-Sphere Hackathon**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tecnologie & Strumenti
+
+**Linguaggi:** Python · Java · OCaml  
+**Data & ML:** Spark · Kafka · scikit-learn · MongoDB · Elasticsearch  
+**Altro:** Docker · Grafana
+
+---
+
+#### 🚀 Progetti in evidenza
+
+- **[Big_Data](https://github.com/AleFlu/Big_Data)** — Pipeline IoT real-time per fire & anomaly detection: Kafka (3-broker KRaft), Spark Structured Streaming + Batch, MongoDB, Elasticsearch, Grafana. Architettura Lambda, completamente containerizzata.
+- **[CivicFlow AI](https://github.com/AleFlu/civicflow-ai-cei-hackathon)** — 🥈 2° posto @ CEI-Sphere Hackathon. Modeler AI in Jakarta EE (Hourglass architecture).
+- **[FlexGrid](https://github.com/AleFlu/flexGrid-cei-hackathon)** — 🥈 2° posto @ CEI-Sphere Hackathon. Servizi energetici distribuiti (COP-PILOT / OpenSlice).
+
+---
+
+#### 📫 Contatti
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-piras-74503a275/)
+
+📧 w.alessandro.piras@gmail.com
